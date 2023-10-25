@@ -1,4 +1,4 @@
 # demo
 first git repository <br>
-Author: Dipak  Maske
+Author: Dipak Prabhakar Maske
 Contact: 5815452154
